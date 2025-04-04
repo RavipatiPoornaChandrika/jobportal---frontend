@@ -1,5 +1,5 @@
 // pages/Home.tsx
-import React from 'react';
+
 import { useNavigate } from 'react-router-dom';
 import { useJobStore } from '../store/jobStore';
 import { useThemeStore } from '../store/themeStore';
