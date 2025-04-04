@@ -57,7 +57,7 @@ export default tseslint.config({
 
 
 
-## What’s Working?##
+## What’s Working?
 - Routing: Working correctly with React Router (Home, JobDetails, CompanyDashboard).
 
 - State Management: Handled via Zustand for jobs, companies, and theme (dark/light mode).
