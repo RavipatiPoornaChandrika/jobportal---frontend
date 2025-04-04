@@ -52,3 +52,22 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+
+
+What’s Working?
+Routing: Working correctly with React Router (Home, JobDetails, CompanyDashboard).
+
+State Management: Handled via Zustand for jobs, companies, and theme (dark/light mode).
+
+Job Listings: All job cards are displaying properly with company information.
+
+Dark Mode: Functional toggle through useThemeStore.
+
+Responsive Design: Basic responsiveness achieved using Tailwind CSS grid and utility classes.
+
+Top Companies Section: Displays a curated list of companies from the available data.
+
+Navigation Bar: Implemented and visible across all pages.
